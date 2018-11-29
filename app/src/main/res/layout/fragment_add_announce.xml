@@ -8,4 +8,11 @@
         android:text="Сообщить о пропаже"
         android:gravity="center_vertical|center_horizontal"/>
 
+    <Button
+        android:id="@+id/chooseFileButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="choose photo"
+        />
+
 </android.support.constraint.ConstraintLayout>
